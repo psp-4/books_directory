@@ -15,4 +15,4 @@
    ```
    npm start
    ```
-5. Test the API using Postman. Video tutorial is in this drive link ```https://shorturl.at/rAHN7```
+5. Test the API using Postman. Video tutorial is in this drive link ```https://shorturl.at/ixXY0```
